@@ -8,7 +8,7 @@
 
 ## B) OPT: Open Pre-trained Transformer Language Models
 
-- We are sharing the code for fine-tuning the OPT models, along with their respective hyperparameters in `opt.py`.
+- We are sharing the code for fine-tuning the OPT models, along with their respective hyperparameters in `opt-train.py`.
 
    However, this process may require the use of multiple GPUs for preparation and deployment.
 
